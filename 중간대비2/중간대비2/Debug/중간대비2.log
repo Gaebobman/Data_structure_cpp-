@@ -1,0 +1,4 @@
+﻿  Tree7cpp.cpp
+C:\Users\이준표\source\repos\중간대비2\중간대비2\Tree7cpp.cpp(22,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\이준표\source\repos\중간대비2\중간대비2\Tree7cpp.cpp(61,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  중간대비2.vcxproj -> C:\Users\이준표\source\repos\중간대비2\Debug\중간대비2.exe
